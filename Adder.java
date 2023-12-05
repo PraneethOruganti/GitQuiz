@@ -1,4 +1,4 @@
 public interface Adder{
     
-    public void add(int n1, int n2);
+    public int add(int n1, int n2);
 }
